@@ -41,6 +41,6 @@
     "grunt": ">=0.4.0"
   },
   "dependencies": {
-    "html-pdf": "^2.0.1"
+    "html-pdf": "^2.2.0"
   }
 }
